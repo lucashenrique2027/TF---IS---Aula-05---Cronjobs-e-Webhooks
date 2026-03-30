@@ -63,10 +63,3 @@ Bash
 
 Desenvolvido por: Lucas Henrique
 Curso: Análise e Desenvolvimento de Sistemas (ADS) - UniFAAT
-
-
-### 💡 Dicas Finais para a Entrega:
-1. **Instruções de Instalação:** Como você já rodou o `npm install express`, o `package.json` já deve estar com a dependência. Se quiser ser ainda mais técnico, pode adicionar uma seção de "Instalação" no README dizendo para rodar `npm install`.
-2. **Caminho do Cron:** No README, deixei o caminho `/home/lucas/TF-IS-Aula05-cronjobs` que é o que aparece nos seus prints. Se você mudar a pasta de lugar, lembre-se de atualizar lá.
-
-Ficou faltando algo ou já vai subir para o repositório?
